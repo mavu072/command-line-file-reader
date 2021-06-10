@@ -12,7 +12,7 @@ A command line driven Java program. Created by Avuyile Mgxotshwa, for the WorkPo
 
 ## Instructions
 Follow the instruction to launch the program.
-###How to run the executable JAR
+### How to run the executable JAR
 ### On Windows
 1. Install Java, if you don't have it installed. Follow the [guide](https://www.java.com/en/download/help/windows_manual_download.html).
 2. Open File Explorer, go to the folder that contains the ```Avuyile Mgxotshwa Java Program.zip``` file, and extract the contents from the zip file.
