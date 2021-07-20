@@ -13,7 +13,7 @@ A command line driven Java program. Created by Avuyile Mgxotshwa, for the WorkPo
 ## Instructions
 Follow the instruction to launch the program.
 ### How to run the executable JAR
-### On Windows
+### On Windows File Explorer 
 1. Install Java, if you don't have it installed. Follow the [guide](https://www.java.com/en/download/help/windows_manual_download.html).
 2. Open File Explorer, go to the folder that contains the ```WPCommandLineProgram-1.0-SNAPSHOT.jar``` executable JAR file.
 3. Right-click in the folder, go to New and select Text Document.
