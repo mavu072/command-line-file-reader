@@ -1,5 +1,5 @@
 # General information
-A command line driven Java program. Created by Avuyile Mgxotshwa, for the WorkPool Programming Test.
+A command line driven Java program.
 
 # Program Requirements
 1. Print a menu with a list of commands.
